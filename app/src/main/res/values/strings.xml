@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">pushNotify</string>
+    <string name="handle_notification_now">String</string>
+    <string name="token_error">error</string>
+    <string name="token_prefix">tokeb</string>
+    <string name="token_null">token: null</string>
+    <string name="signed_out">sign Out</string>
+    <string name="signed_in">sign In</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="send_link">Send Link</string>
+    <string name="verify_email">Verify</string>
+    <string name="auth_failed">Authentication failed</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
